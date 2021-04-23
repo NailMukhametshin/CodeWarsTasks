@@ -1,8 +1,6 @@
 package kata678;
 
-import kata678.Suite2;
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class Suite2Test {

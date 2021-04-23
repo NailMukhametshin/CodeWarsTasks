@@ -1,8 +1,6 @@
 package kata678;
 
-import kata678.JadenCase;
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
 
